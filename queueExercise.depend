@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1726160220 source:c:\users\pc\onedrive\desktop\progetti\codeblocks\queueexercise\data.c
+	"data.h"
+
+1726156413 c:\users\pc\onedrive\desktop\progetti\codeblocks\queueexercise\data.h
+	<stdbool.h>
+	<stdlib.h>
+
+1726146031 source:c:\users\pc\onedrive\desktop\progetti\codeblocks\queueexercise\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1726141513 c:\users\pc\onedrive\desktop\progetti\codeblocks\queueexercise\functions.h
+	"data.h"
+
+1726159505 source:c:\users\pc\onedrive\desktop\progetti\codeblocks\queueexercise\functions.c
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+	"check.h"
+	"data.h"
+	"file.h"
+
+1726156463 source:c:\users\pc\onedrive\desktop\progetti\codeblocks\queueexercise\check.c
+	<string.h>
+	"check.h"
+	"data.h"
+
+1726156474 c:\users\pc\onedrive\desktop\progetti\codeblocks\queueexercise\check.h
+	<stdbool.h>
+
+1726134673 c:\users\pc\onedrive\desktop\progetti\codeblocks\queueexercise\file.h
+	"data.h"
+
+1726156469 source:c:\users\pc\onedrive\desktop\progetti\codeblocks\queueexercise\file.c
+	<stdio.h>
+	"file.h"
+
